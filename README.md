@@ -1,4 +1,12 @@
-### Hi there 👋
+### The ReadMe for Tim Triemstra
+
+Hello! I'm presently writing my latest 🐛.
+
+Just set this up, so appologies for the empty readme.
+
+- 📞 How to reach me: root@timtr.com
+
+
 
 <!--
 **TimTr/TimTr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
