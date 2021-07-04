@@ -1,4 +1,4 @@
-### Tim Triemstra - Personal README.md file on GitHub.com
+### Tim Triemstra - Personal README.md
 
 Just set this up, so appologies for the empty readme.
 
