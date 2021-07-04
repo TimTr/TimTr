@@ -1,6 +1,4 @@
-### The ReadMe for Tim Triemstra
-
-Hello! I'm presently writing my latest 🐛.
+### Tim Triemstra - Personal ReadMe file on GitHub.com
 
 Just set this up, so appologies for the empty readme.
 
