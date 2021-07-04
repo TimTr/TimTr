@@ -4,7 +4,7 @@ Hello! I'm presently writing my latest 🐛.
 
 Just set this up, so appologies for the empty readme.
 
-- 📞 How to reach me: root@timtr.com
+- 📞 How to reach me: root at timtr.com
 
 
 
