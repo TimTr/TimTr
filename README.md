@@ -1,6 +1,10 @@
-### Tim Triemstra - Personal README.md
+## Tim Triemstra
 
-Just set this up, so appologies for the empty readme.
+You can reach me at the following destinations:
 
-- 📨 You can email me at "root" at timtr.com
+- 📨 Email: "root" at timtr.com
+- 🐘 Mastodon: @TimTr@hachyderm.io or [hachyderm.io/@TimTr](https://hachyderm.io/@TimTr)
+- 🏠 Web:  [TimTr.com](https://timtr.com)
+- ✏️ Swift forums: [forums.swift.org/u/TimTr](https://forums.swift.org/u/TimTr)
 
+Be excellent to each other.
