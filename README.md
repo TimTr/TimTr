@@ -1,10 +1,8 @@
-# Hello, I'm Tim.
+# Hello,
 
-My name is Tim Triemstra, and I work at Apple on developer documentation and tools. I'm also involved in the Swift community. 
+My name is Tim Triemstra, good to meet you. I work at Apple on developer tools, docs, and Swift open source.
 
-## Contact
-
-You can reach me using:
+## You can reach me using:
 
 - 📨 Email: "root" at timtr.com
 - 🐘 Mastodon: @TimTr@hachyderm.io or [hachyderm.io/@TimTr](https://hachyderm.io/@TimTr)
