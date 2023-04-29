@@ -1,6 +1,6 @@
 # Hello,
 
-My name is Tim Triemstra, good to meet you. I work at Apple on developer tools, documentation, and Swift open source.
+My name is Tim Triemstra, and I work at Apple on developer tools, documentation, and Swift open source.
 
 ## You can reach me using:
 
