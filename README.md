@@ -9,4 +9,4 @@ My name is Tim Triemstra. I work at Apple on developer tools, documentation, and
 - 🐘  Mastodon: [@timtr@mastodon.social](https://mastodon.social/@timtr) or [mastodon.social/@timtr](https://mastodon.social/@timtr)
 - ✏️  Swift forums: [forums.swift.org/u/TimTr](https://forums.swift.org/u/TimTr)
 
-### Be excellent to each other. 
+**Be excellent to each other.**
