@@ -1,4 +1,4 @@
-### Hello,
+### 👋 Hello,
 
 My name is Tim Triemstra. I work at Apple on developer tools, documentation, and Swift open source.
 
